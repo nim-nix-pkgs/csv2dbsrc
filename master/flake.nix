@@ -9,7 +9,7 @@
   
   inputs.src-csv2dbsrc-master.flake = false;
   inputs.src-csv2dbsrc-master.owner = "z-kk";
-  inputs.src-csv2dbsrc-master.ref   = "refs/heads/master";
+  inputs.src-csv2dbsrc-master.ref   = "master";
   inputs.src-csv2dbsrc-master.repo  = "csv2dbsrc";
   inputs.src-csv2dbsrc-master.type  = "github";
   
