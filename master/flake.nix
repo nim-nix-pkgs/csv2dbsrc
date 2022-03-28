@@ -11,7 +11,6 @@
   inputs.src-csv2dbsrc-master.ref   = "refs/heads/master";
   inputs.src-csv2dbsrc-master.owner = "z-kk";
   inputs.src-csv2dbsrc-master.repo  = "csv2dbsrc";
-  inputs.src-csv2dbsrc-master.dir   = "";
   inputs.src-csv2dbsrc-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
