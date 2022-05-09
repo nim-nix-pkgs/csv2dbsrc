@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/z-kk/csv2dbsrc",
   "refs": [
-    "fatal: unable to access 'https://github.com/z-kk/csv2dbsrc/': SSL connection timeout",
+    "fatal: unable to access 'https://github.com/z-kk/csv2dbsrc/': Could not resolve host: github.com",
     ""
   ],
   "heads": []
