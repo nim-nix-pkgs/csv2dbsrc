@@ -36,10 +36,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-csv2dbsrc-master": "src-csv2dbsrc-master"
+        "src-csv2dbsrc-v0_2_3": "src-csv2dbsrc-v0_2_3"
       }
     },
-    "src-csv2dbsrc-master": {
+    "src-csv2dbsrc-v0_2_3": {
       "flake": false,
       "locked": {
         "lastModified": 1652351758,
@@ -51,7 +51,7 @@
       },
       "original": {
         "owner": "z-kk",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v0.2.3",
         "repo": "csv2dbsrc",
         "type": "github"
       }
