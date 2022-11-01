@@ -39,22 +39,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-csv2dbsrc-devel": "src-csv2dbsrc-devel"
+        "src-csv2dbsrc-v0_2_4": "src-csv2dbsrc-v0_2_4"
       }
     },
-    "src-csv2dbsrc-devel": {
+    "src-csv2dbsrc-v0_2_4": {
       "flake": false,
       "locked": {
-        "lastModified": 1667018495,
-        "narHash": "sha256-46RH78zwJFvrn82fEePgiVvvSHR/zW5VkOoRJVNNjCw=",
+        "lastModified": 1666001646,
+        "narHash": "sha256-MKsEL1Mk3souomxseU/q0GbO3ITerekzdWfHQuS4fpQ=",
         "owner": "z-kk",
         "repo": "csv2dbsrc",
-        "rev": "80132fca4ad981829df8d942b7b06f0a88cef970",
+        "rev": "02e8312b0621d719e63c6e9bd6fb4205d6487921",
         "type": "github"
       },
       "original": {
         "owner": "z-kk",
-        "ref": "refs/heads/devel",
+        "ref": "refs/tags/v0.2.4",
         "repo": "csv2dbsrc",
         "type": "github"
       }
